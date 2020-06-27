@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Also Exclude the following
+config.py
+.DS_Store
